@@ -21,3 +21,19 @@ INFO 2024-03-08 00:09:37,685 autoreload 5216 17000 C:\Users\User\PycharmProjects
 INFO 2024-03-08 00:09:38,394 autoreload 11852 4912 Watching for file changes with StatReloader
 INFO 2024-03-08 00:10:32,187 autoreload 11852 4912 C:\Users\User\PycharmProjects\Django_GB_new\myproject\myapp5\admin.py changed, reloading.
 INFO 2024-03-08 00:10:32,887 autoreload 14548 12320 Watching for file changes with StatReloader
+INFO 2024-03-08 00:34:42,595 autoreload 12448 5276 Watching for file changes with StatReloader
+INFO 2024-03-08 00:36:58,282 autoreload 12448 5276 C:\Users\User\PycharmProjects\Django_GB_new\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-08 00:36:58,877 autoreload 8120 12688 Watching for file changes with StatReloader
+INFO 2024-03-08 00:37:04,329 autoreload 7280 12424 Watching for file changes with StatReloader
+INFO 2024-03-08 00:37:28,723 autoreload 7280 12424 C:\Users\User\PycharmProjects\Django_GB_new\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-08 00:37:29,445 autoreload 1104 3044 Watching for file changes with StatReloader
+INFO 2024-03-08 00:38:58,076 autoreload 10400 3064 Watching for file changes with StatReloader
+INFO 2024-03-08 00:39:42,254 autoreload 10400 3064 C:\Users\User\PycharmProjects\Django_GB_new\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-08 00:39:42,926 autoreload 8332 3200 Watching for file changes with StatReloader
+INFO 2024-03-08 00:40:02,970 basehttp 8332 17788 "GET / HTTP/1.1" 200 10129
+INFO 2024-03-08 00:40:02,997 basehttp 8332 17788 "GET /static/debug_toolbar/css/toolbar.css HTTP/1.1" 200 12621
+INFO 2024-03-08 00:40:02,999 basehttp 8332 4884 "GET /static/debug_toolbar/js/toolbar.js HTTP/1.1" 200 13578
+INFO 2024-03-08 00:40:03,015 basehttp 8332 4884 "GET /static/debug_toolbar/css/print.css HTTP/1.1" 200 43
+INFO 2024-03-08 00:40:03,042 basehttp 8332 4884 "GET /static/debug_toolbar/js/utils.js HTTP/1.1" 200 4527
+INFO 2024-03-08 00:43:38,022 autoreload 8332 3200 C:\Users\User\PycharmProjects\Django_GB_new\myproject\myproject\settings.py changed, reloading.
+INFO 2024-03-08 00:43:38,726 autoreload 8420 14428 Watching for file changes with StatReloader
